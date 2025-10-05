@@ -29,7 +29,7 @@ Note: The model is designed to predict mass and compute habitability, but due to
 ---
 
 ## 🎥 Demo
-[30-second Project Demo](https://youtu.be/BSkNEZ1Y5jg) - the 5 extra seconds are app's watermark
+[30-second Project Demo](https://youtu.be/BSkNEZ1Y5jg) - the 5 extra seconds are app's watermark -
 Interactive exploration: upload CSV or enter parameters manually, then visualize probability, habitability, and RA/DEC maps.
 
 ---
