@@ -49,5 +49,5 @@ Interactive exploration: upload CSV or enter parameters manually, then visualize
 
 ---
 ## 🏆 Credits
-Developed by Melika Rezaeian for the NASA Space Apps Challenge 2025.  
+Developed by Melika Rezaeyan for the NASA Space Apps Challenge 2025.  
 Data courtesy of NASA Kepler Mission.
